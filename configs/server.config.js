@@ -1,5 +1,5 @@
 //Server connections are here
 
 module.exports={
-    PORT: 8081
+    PORT: 8080
 }
